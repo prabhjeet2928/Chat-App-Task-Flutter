@@ -12,7 +12,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="social_app"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCYmgUpMUgb4akbFN2hu2GIp1FTZq13P7U"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR_API_KEY"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
